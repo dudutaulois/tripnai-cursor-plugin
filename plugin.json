@@ -1,0 +1,15 @@
+{
+  "name": "tripnai",
+  "version": "1.0.0",
+  "description": "Plan with your favorite AI. Travel with TripnAI. MCP access to day-by-day trips on tripnai.com.",
+  "author": {
+    "name": "TripnAI",
+    "email": "xk2@me.com"
+  },
+  "homepage": "https://tripnai.com",
+  "repository": "https://github.com/dudutaulois/tripnai-cursor-plugin",
+  "license": "MIT",
+  "keywords": ["travel", "itinerary", "mcp", "grok"],
+  "skills": "./skills/",
+  "mcpServers": "./mcp.json"
+}
